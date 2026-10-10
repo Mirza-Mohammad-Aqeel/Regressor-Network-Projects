@@ -1,9 +1,19 @@
-# Regressor Network Projects
+# Regression Neural Networks
 
-## So I coded these projects to get hands on experience with Neural Networks
+A Collection of Regressor Models I Coded on Regression Networks
 
-## Things I learned =|
+# Things Covered
 
-## 1. Grid Searches
-## 2. Experimentation & Transfer Learning
-## 3. Hyperparameter Tuning
+- Loss Functions
+- Optimizers & Gradients / Non Linearity
+- Transfer Learning & Experimentation
+- Grid Searches & Evaluation
+- Network Architecture
+
+# Tools 
+
+- Pandas
+- Matplotlib
+- Scikit Learn
+- Pytorch
+- Miscellanous Libraries
